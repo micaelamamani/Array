@@ -1,0 +1,20 @@
+div{
+  background-color: lightblue;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto; 
+  text-align: center;
+  padding: 25px;
+  border-radius: 12px;
+}
+header{
+  padding: 5px;
+}
+a{
+  text-decoration: none;
+  color: white;
+  background-color: cadetblue;
+  padding: 1%;
+  margin: 10px;
+  border-radius: 8px;
+}
